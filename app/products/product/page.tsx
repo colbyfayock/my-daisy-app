@@ -21,7 +21,7 @@ export default function Home() {
       </div>
       <div className="max-w-2xl mx-auto my-12">
         <p>
-          Featuring a state-of-the-art, lightweight exoskeleton, the Galactic Guardian Spacesuit provides exceptional mobility without compromising on durability. The suit's advanced life support system ensures a constant and reliable supply of oxygen, while its temperature regulation technology keeps astronauts comfortable in the extremes of space.
+          Featuring a state-of-the-art, lightweight exoskeleton, the Galactic Guardian Spacesuit provides exceptional mobility without compromising on durability. The suit&apos;s advanced life support system ensures a constant and reliable supply of oxygen, while its temperature regulation technology keeps astronauts comfortable in the extremes of space.
         </p>
       </div>
       <div className="max-w-2xl mx-auto my-12">
@@ -31,7 +31,7 @@ export default function Home() {
             Product Info
           </div>
           <div className="collapse-content"> 
-            <p>Equipped with a high-visibility helmet boasting an anti-glare visor, our spacesuit ensures crystal-clear vision for critical mission tasks. The suit's multi-layered shielding defends against radiation, micrometeoroids, and temperature fluctuations, offering a comprehensive defense against the hazards of outer space.</p>
+            <p>Equipped with a high-visibility helmet boasting an anti-glare visor, our spacesuit ensures crystal-clear vision for critical mission tasks. The suit&apos;s multi-layered shielding defends against radiation, micrometeoroids, and temperature fluctuations, offering a comprehensive defense against the hazards of outer space.</p>
           </div>
         </div>
         <div className="collapse collapse-plus bg-base-200">
@@ -40,7 +40,7 @@ export default function Home() {
             Specifications
           </div>
           <div className="collapse-content"> 
-            <p>Designed for ease of use, the Galactic Guardian Spacesuit incorporates intuitive controls and a modular interface, allowing astronauts to adapt to mission-specific requirements effortlessly. The suit's sleek design not only enhances functionality but also contributes to a futuristic aesthetic, setting a new standard for space exploration fashion.</p>
+            <p>Designed for ease of use, the Galactic Guardian Spacesuit incorporates intuitive controls and a modular interface, allowing astronauts to adapt to mission-specific requirements effortlessly. The suit&apos;s sleek design not only enhances functionality but also contributes to a futuristic aesthetic, setting a new standard for space exploration fashion.</p>
           </div>
         </div>
         <div className="collapse collapse-plus bg-base-200 mb-12">
