@@ -1,8 +1,8 @@
 # daisyUI Website with shadcn/ui components
 
-Demo for tutorial
+Demo for tutorial [Build Apps Faster with daisyUI Tailwind Components](https://www.youtube.com/watch?v=PctfrkRo8Fg)
 
-📺 YouTube: Coming soon...
+📺 YouTube: https://www.youtube.com/watch?v=PctfrkRo8Fg
 
 ## More tutorials and walkthroughs
 
