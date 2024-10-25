@@ -11,7 +11,7 @@ export default function Home() {
     <main className="bg-base-200">
       <div className="hero min-h-screen bg-base-200">
         <div className="max-w-5xl mx-auto hero-content flex-col gap-12 lg:flex-row">
-          <img className="max-w-sm rounded-lg shadow-2xl" src="https://res.cloudinary.com/spacejelly-tutorials/image/upload/v1700510527/my-daisy-app/benjamin-recinos-UMQY2ZmLqcQ-unsplash_cyxro0.jpg" />
+          <img className="max-w-sm rounded-lg shadow-2xl" src="https://res.cloudinary.com/fay/image/upload/v1729824220/tutorials/my-daisy-app/benjamin-recinos-UMQY2ZmLqcQ-unsplash_cyxro0.jpg" />
           <div>
             <h1 className="text-5xl font-bold">Spacesuit</h1>
             <p className="py-6">Introducing the Galactic Guardian Spacesuit, the epitome of cutting-edge technology and unparalleled protection for your cosmic adventures. Designed with precision and innovation, this spacesuit is crafted to safeguard astronauts in the harshest environments beyond Earth.</p>
