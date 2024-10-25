@@ -3,7 +3,7 @@ export default function Home() {
     <main>
 
       <div className="hero min-h-screen" style={{
-        backgroundImage: 'url(https://res.cloudinary.com/spacejelly-tutorials/image/upload/v1700509870/my-daisy-app/jeremy-thomas-E0AHdsENmDg-unsplash_o6g1ov.jpg)'
+        backgroundImage: 'url(https://res.cloudinary.com/fay/image/upload/v1729824220/tutorials/my-daisy-app/jeremy-thomas-E0AHdsENmDg-unsplash_o6g1ov.jpg)'
       }}>
         <div className="hero-overlay bg-opacity-60"></div>
         <div className="hero-content text-center text-neutral-content">
